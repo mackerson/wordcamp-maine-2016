@@ -3,13 +3,14 @@
 
 Resources by Subject
 - [Local development](#local-development)
-- Virtualbox 
-- Vagrant
-- VVV 
-- Variable VVV
-- Additional Information
+- [Virtualbox](#virtualbox)
+- [Vagrant](#vagrant)
+- [VVV](#vvv)
+- [Variable VVV](#variable-vvv)
+- [Additional Information](#additional-information)
 
 ## Local Development
+(More information coming soon about getting started with local development soon.)
 
 ## Virtual Box
 “VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.”
