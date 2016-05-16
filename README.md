@@ -28,8 +28,9 @@ Vagrant Boxes http://www.vagrantbox.es
 Laravel Homestead https://laravel.com/docs/5.2/homestead  
 Rails Dev Box https://github.com/rails/rails-dev-box  
 Hashicorp Atlas https://atlas.hashicorp.com/boxes/search  
-https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins  
+Vagrant Wiki Plugins https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins  
 http://vagrant-lists.github.io  
+Vagrant Box Creation Tool https://puphpet.com/  
 http://themejuice.it  
 
 ## VVV
